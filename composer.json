@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "harrisonratcliffe/php-k8s": "^3.7"
+        "harrisonratcliffe/php-k8s": "dev-master"
     },
     "autoload": {
         "psr-4": {
